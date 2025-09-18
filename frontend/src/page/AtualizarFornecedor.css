@@ -1,0 +1,51 @@
+.container-atualizar {
+  max-width: 500px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container-atualizar h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.container-atualizar form div {
+  margin-bottom: 1rem;
+}
+
+.container-atualizar label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.container-atualizar input,
+.container-atualizar select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.container-atualizar button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.container-atualizar button:hover {
+  background-color: #555;
+}
+
+.mensagem {
+  text-align: center;
+  margin-top: 1rem;
+  font-weight: bold;
+}

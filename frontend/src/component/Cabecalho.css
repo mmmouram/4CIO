@@ -1,0 +1,15 @@
+.cabecalho {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+}
+
+.navegacao a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.navegacao a:hover {
+  text-decoration: underline;
+}
